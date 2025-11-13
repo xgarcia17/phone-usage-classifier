@@ -4,8 +4,8 @@
 
 ## Data
 
-Dataset name: **Phone Usage in India**
-The data comes from AkashSharma0105 on Kaggle @ https://www.kaggle.com/datasets/akashsharma0105/phone-usage-in-india/data.
+Dataset name: **Mobile Device Usage and User Behavior Dataset**
+The data comes from Vala Khorasani on Kaggle @ https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset.
 
 ## Goal
 
